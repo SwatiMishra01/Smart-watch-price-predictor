@@ -35,3 +35,9 @@ Uses **Random Forest Regressor** for price estimation.
 ```bash
 git clone <repo-link>
 cd smart-watch-price-prediction
+```
+2.Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
